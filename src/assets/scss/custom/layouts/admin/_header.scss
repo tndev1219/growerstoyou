@@ -1,0 +1,38 @@
+.admin-header-wrap{
+   background-color: whitesmoke !important;
+   box-shadow: -2px -42px 34px 21px #283593 !important;
+   .humburger{
+      width: 40px;
+      height:40px;
+      border-radius:100%;
+      background-color: $primary !important;
+      box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2),
+       0px 6px 10px 0px rgba(0, 0, 0, 0.14), 
+       0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+   }
+}
+//========= Admin sidebar ======
+
+.admin-sidebar-wrap{
+   background-image: url("../../assets/images/bg-sidebar.jpg") !important;
+   background-position: center center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 16.25rem;
+   background-position: top center;
+   overflow: hidden;
+   transition: all 200ms ease 0s;
+   height: 100%;
+}
+
+.driver-sidebar-wrap{
+   background-color: #283593;
+   background-position: center center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 16.25rem;
+   background-position: top center;
+   overflow: hidden;
+   transition: all 200ms ease 0s;
+   height: 100%;
+}

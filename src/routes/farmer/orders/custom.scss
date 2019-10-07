@@ -1,0 +1,15 @@
+.order-detail-dialog {
+  .order-detail-item {
+    display: flex;
+    justify-content: center;
+  }  
+  h4, p {
+    margin: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .order-detail-title {
+    display: flex;
+    justify-content: center;
+  }
+}
